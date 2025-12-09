@@ -1,2 +1,2 @@
 
-Wersja 0.3.0 - wersja main rebase test.
+Wersja 0.3.2 - druga zmiana na main
