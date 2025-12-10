@@ -1,1 +1,2 @@
-Nowy plik z drugiego repo
+Nowy plik z drugiego repo,
+w zasadzie to ju start
