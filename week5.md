@@ -75,7 +75,7 @@ Najczęstszy scenariusz (branch do PR ma być “na świeżym main”):
 ### Ćwiczenie 1 — PR w obrębie jednego repo (branch -> PR -> merge)
 
 1. W tym repo utwórz branch `feature/week5-pr`.
-2. Zmień jeden plik (np. dopisz 5 linijek do `notes.md` albo popraw literówkę).
+2. Zmień jeden plik (np. dopisz 5 linijek do `notes.txt` albo popraw literówkę).
 3. Zrób 1–2 commity z sensowną wiadomością.
 4. Push brancha na GitHuba i otwórz PR do `main`.
 5. Zmerguj PR (zależnie od ustawień repo: “Merge”, “Squash”, albo “Rebase and merge”).
@@ -117,7 +117,7 @@ Checkpoint: umiesz zsynchronizować “forka” z upstream.
 
 ### Ćwiczenie 4 — Konflikt podczas rebase (kontrolowany)
 
-1. Na `main` dodaj linię w pliku (np. `notes.md`) i wypchnij.
+1. Na `main` dodaj linię w pliku (np. `notes.txt`) i wypchnij.
 2. Na branchu (np. `feature/week5-pr`) zmień _tę samą linię inaczej_.
 3. Zrób `git rebase origin/main` i rozwiąż konflikt:
    - popraw plik
