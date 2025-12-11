@@ -1,2 +1,5 @@
 
 Wersja 0.3.3 - trzecia zmiana na main
+
+Lessons:
+- week5.md — PR workflow (bez review), `origin`/`upstream`, `fetch`, `rebase`, ćwiczenia

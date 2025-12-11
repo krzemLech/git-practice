@@ -1,1 +1,3 @@
-Lesson 1 notes - updated
+Lesson notes
+
+- Lesson 5: see `week5.md`
