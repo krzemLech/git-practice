@@ -125,4 +125,3 @@ Checkpoint: umiesz zsynchronizować “forka” z upstream.
    - `git rebase --continue`
 
 Checkpoint: potrafisz przejść konflikt w rebase bez paniki.
-
