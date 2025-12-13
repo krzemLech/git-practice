@@ -4,4 +4,4 @@ Lesson notes
 - Lesson 7: see `week7.md`
 
 fork change no more
-amendment no 7
+amendment no 8
