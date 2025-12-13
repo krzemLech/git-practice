@@ -1,6 +1,7 @@
 Lesson notes
 
 - Lesson 5: see `week5.md`
+- Lesson 7: see `week7.md`
 
-fork change
-amendment no 5
+fork change no more
+amendment no 7
